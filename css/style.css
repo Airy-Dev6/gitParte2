@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+.card-data{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 80vw;
+    height: 20vh;
+    background-color: slategrey;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 8px 8px 12px #333;
+}
+
+div .items{
+    width: 85%;
+    height: 20%;
+    /*background-color: gray;*/
+    margin: auto;
+    padding: 10px;
+    color: whitesmoke;
+}
+div .items span{
+    background-color: none;
+    color: #333;
+}
