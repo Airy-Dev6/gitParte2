@@ -27,3 +27,17 @@ div .items span{
     background-color: none;
     color: #333;
 }
+.main-container {
+  background-color: black;
+  border: solid rgb(38, 131, 238) 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  color: aliceblue;
+}
+
+.card1 {
+  font-style: italic;
+  font-family: Gothic;
+}
